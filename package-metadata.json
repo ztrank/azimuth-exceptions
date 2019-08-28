@@ -1,0 +1,8 @@
+{
+    "name": "azimuth-exceptions",
+    "importName": "exceptions",
+    "version": "0.1.0",
+    "repository": "https://github.com/ztrank/azimuth-exceptions.git",
+    "author": "ztrank",
+    "directory": "src/public"
+}
