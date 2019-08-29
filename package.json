@@ -5,7 +5,7 @@
     "url": "https://github.com/ztrank/azimuth-exceptions.git"
   },
   "homepage": "https://github.com/ztrank/azimuth-exceptions#readme",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "build": "rmdir dist /s /q && tsc",
     "version": "git add -A src",
