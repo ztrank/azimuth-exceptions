@@ -1,2 +1,2 @@
 export * from './public/Http.Exceptions';
-export * from './Bind';
+export * from './Exception.Module';
